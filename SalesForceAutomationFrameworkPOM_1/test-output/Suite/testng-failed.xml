@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.salesForce.tests_1.AutomationScripts">
+        <methods>
+          <include name="SFTC04B_loginErrorMessage"/>
+          <include name="SFTC03_rememberUsername"/>
+          <include name="teardownAfterTest"/>
+          <include name="setUp"/>
+          <include name="SFTC01_emptyPassword"/>
+          <include name="tearDown"/>
+          <include name="SFTC04A_forgotPassword"/>
+          <include name="SFTC05_userMenu"/>
+          <include name="setupBeforeTest"/>
+          <include name="SFTC02_login"/>
+        </methods>
+      </class> <!-- com.salesForce.tests_1.AutomationScripts -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

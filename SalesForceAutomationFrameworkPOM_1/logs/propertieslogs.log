@@ -1,0 +1,20 @@
+[DEBUG] 2022-09-28 20:50:43.033 [main] LogTest - This is a debug message
+[INFO ] 2022-09-28 20:50:43.034 [main] LogTest - This is an info message
+[WARN ] 2022-09-28 20:50:43.035 [main] LogTest - This is a warn message
+[ERROR] 2022-09-28 20:50:43.035 [main] LogTest - This is an error message
+[FATAL] 2022-09-28 20:50:43.035 [main] LogTest - This is a fatal message
+[DEBUG] 2022-09-28 20:50:43.043 [main] LogTest - This is a debug message
+[INFO ] 2022-09-28 20:50:43.043 [main] LogTest - This is an info message
+[WARN ] 2022-09-28 20:50:43.043 [main] LogTest - This is a warn message
+[ERROR] 2022-09-28 20:50:43.043 [main] LogTest - This is an error message
+[FATAL] 2022-09-28 20:50:43.044 [main] LogTest - This is a fatal message
+[DEBUG] 2022-09-28 20:54:52.064 [main] LogTest - This is a debug message
+[INFO ] 2022-09-28 20:54:52.065 [main] LogTest - This is an info message
+[WARN ] 2022-09-28 20:54:52.065 [main] LogTest - This is a warn message
+[ERROR] 2022-09-28 20:54:52.065 [main] LogTest - This is an error message
+[FATAL] 2022-09-28 20:54:52.065 [main] LogTest - This is a fatal message
+[DEBUG] 2022-09-28 20:54:52.073 [main] LogTest - This is a debug message
+[INFO ] 2022-09-28 20:54:52.073 [main] LogTest - This is an info message
+[WARN ] 2022-09-28 20:54:52.073 [main] LogTest - This is a warn message
+[ERROR] 2022-09-28 20:54:52.073 [main] LogTest - This is an error message
+[FATAL] 2022-09-28 20:54:52.073 [main] LogTest - This is a fatal message

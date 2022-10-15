@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression(failed)">
+    <parameter name="browsername" value="chrome"/>
+    <classes>
+      <class name="com.salesForce.tests.AutomationScripts">
+        <methods>
+          <include name="SFTC02_login"/>
+          <include name="teardownAfterTest"/>
+          <include name="tearDown"/>
+          <include name="SFTC01_emptyPassword"/>
+          <include name="setUp"/>
+          <include name="setupBeforeTest"/>
+          <include name="SFTC04B_loginErrorMessage"/>
+          <include name="SFTC03_rememberUsername"/>
+          <include name="SFTC05_userMenu"/>
+          <include name="SFTC04A_forgotPassword"/>
+        </methods>
+      </class> <!-- com.salesForce.tests.AutomationScripts -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
