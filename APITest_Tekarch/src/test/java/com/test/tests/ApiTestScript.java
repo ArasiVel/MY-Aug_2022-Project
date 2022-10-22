@@ -20,27 +20,27 @@ public class ApiTestScript extends UserServiceHelper {
 
 @Test(priority = 1)
 
-public static void TC_01_AllEmployeedata() {
+public static void TC01AllEmployeedata() {
 GetAllEmployee.getEmployees();
 }
 
 @Test(priority = 2)
 
-public static void TC_02_CreateEmployeedata() {
+public static void TC02CreateEmployeedata() {
 System.out.println("Adding employee:");
 CreateEmployee.AddEmployee();
 }
 @Test(priority = 3)
-public static void TC_03_DeleteEmployee() {
+public static void TC03DeleteEmployee() {
 DeleteEmployee.delete_emp();
 }
 @Test(priority = 4)
-public static void TC_04_DeleteAlreadydeletedEmployee() {
+public static void TC04DeleteAlreadydeletedEmployee() {
 DeleteEmployee.deleteuserAgain();
 
 }
 @Test(priority = 5)
-public static void TC_05_GetEmpWithId() {
+public static void TC05GetEmpWithId() {
 GetEmployee.getempwithid();
 }
 
